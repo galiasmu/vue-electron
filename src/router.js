@@ -7,7 +7,7 @@ const routes = [
     
     {
         name: 'List',
-        path: '/list',
+        path: '/',
         component:ListComponent
     },
     {
